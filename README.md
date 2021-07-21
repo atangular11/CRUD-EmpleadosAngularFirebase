@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## bootstrap 
+https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+## animation message
+https://www.npmjs.com/package/ngx-toastr
+
+##assets
+https://pixabay.com/es/photos/monta%c3%b1as-snow-colinas-al-aire-libre-4783955/
+
+##icons
+https://fontawesome.com/v5.15/how-to-use/customizing-wordpress/snippets/setup-cdn-webfont
+
+##deploy
+https://app.netlify.com/sites/optimistic-raman-ac1539/overview
